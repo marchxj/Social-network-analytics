@@ -1,0 +1,2972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1394.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-894.000000 -506.000000 1394.000000 1277.000000" height="1277.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 309.517822,-34.282845 L 472.952820,-78.541527"
+              class="id_河北云江房地产开发有限公司 id_石家庄纬度商贸有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 291.656860,-24.427814 L 231.899963,30.567917"
+              class="id_河北云江房地产开发有限公司 id_恒大地产集团石家庄有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.034088,-24.038591 L 264.622528,3.935736"
+              class="id_河北云江房地产开发有限公司 id_河北恒润房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 309.792511,-30.163719 L 365.378204,-22.823872"
+              class="id_河北云江房地产开发有限公司 id_江海军" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 308.589935,-36.586021 L 454.193329,-116.412727"
+              class="id_河北云江房地产开发有限公司 id_刘聪笑" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.340515,305.542480 L 352.589081,388.393616"
+              class="id_广州市凯隆置业有限公司 id_李国东" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 205.772873,307.634094 L 324.806915,422.588745"
+              class="id_广州市凯隆置业有限公司 id_广州市超丰置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.688488,379.530975 L 58.520061,572.502075"
+              class="id_海南恒乾材料设备有限公司 id_恒大旅游集团有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.385366,359.230804 L -16.565166,268.092346"
+              class="id_海南恒乾材料设备有限公司 id_许家印" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.794464,379.635742 L -11.750077,532.036499"
+              class="id_海南恒乾材料设备有限公司 id_潘云淼" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -164.641037,23.878906 L -165.587723,66.978500"
+              class="id_泉州市钻石投资发展有限公司 id_恒大地产集团福州有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.953735,9.002397 L -260.738373,-30.819752"
+              class="id_泉州市钻石投资发展有限公司 id_王明甲" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -175.902298,-79.376617 L -166.070297,-0.016135"
+              class="id_龙岩恒大置业有限公司 id_泉州市钻石投资发展有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -176.497437,-79.320038 L -166.778854,67.004921"
+              class="id_龙岩恒大置业有限公司 id_恒大地产集团福州有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -185.509384,-96.207291 L -301.383698,-185.527222"
+              class="id_龙岩恒大置业有限公司 id_陈利波" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -179.216339,-100.100220 L -216.770340,-291.360474"
+              class="id_龙岩恒大置业有限公司 id_太原市俊恒房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -393.677887,35.214539 L -688.054077,31.449368"
+              class="id_山东高速投资控股有限公司 id_山东高速集团有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -393.464813,33.240093 L -524.980591,6.278223"
+              class="id_山东高速投资控股有限公司 id_曾卫兵" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -160.120270,-1.290832 L -160.621689,0.423996"
+              class="id_晋江金碧置业有限公司 id_泉州市钻石投资发展有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -158.164856,-0.915751 L -164.609528,67.035553"
+              class="id_晋江金碧置业有限公司 id_恒大地产集团福州有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -167.435654,-13.590860 L -259.814056,-33.593067"
+              class="id_晋江金碧置业有限公司 id_王明甲" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.770447,-21.542614 L -173.854294,-76.716385"
+              class="id_晋江金碧置业有限公司 id_龙岩恒大置业有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.766479,84.527565 L -595.402832,156.107666"
+              class="id_山东高速地产集团有限公司 id_姜连梅" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -411.337128,79.027451 L -688.232056,33.468468"
+              class="id_山东高速地产集团有限公司 id_山东高速集团有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 246.922562,20.071461 L 232.575577,31.361416"
+              class="id_河北恒润房地产开发有限公司 id_恒大地产集团石家庄有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.660736,14.106703 L 393.032043,20.526199"
+              class="id_河北恒润房地产开发有限公司 id_张亮" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.284546,10.744774 L 365.762817,-17.413651"
+              class="id_河北恒润房地产开发有限公司 id_江海军" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.860428,364.791840 L 186.484207,307.012512"
+              class="id_恒大集团有限公司 id_广州市凯隆置业有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.233330,369.859497 L 27.963091,369.426239"
+              class="id_恒大集团有限公司 id_海南恒乾材料设备有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.923904,380.250366 L 110.335655,532.138428"
+              class="id_恒大集团有限公司 id_刘玉芝" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.933044,266.696228 L -317.554626,343.948792"
+              class="id_徐州九龙苑酒店管理有限公司 id_邳州瑞丰酒店管理有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -187.916534,269.115387 L -282.767426,376.091919"
+              class="id_徐州九龙苑酒店管理有限公司 id_张烨" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -175.350662,252.376801 L -138.928085,194.606415"
+              class="id_徐州九龙苑酒店管理有限公司 id_恒大地产集团南京置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -100.447060,261.598572 L -33.980164,256.265411"
+              class="id_南安金碧置业有限公司 id_许家印" stroke-opacity="1.0" stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -115.607178,271.830841 L -181.994171,404.675110"
+              class="id_南安金碧置业有限公司 id_陈心建" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.749802,272.776520 L -139.693237,424.458466"
+              class="id_南安金碧置业有限公司 id_厦门金碧置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.436584,188.456787 L -115.646942,6.374730"
+              class="id_东莞市凯星房地产开发有限公司 id_恒大地产集团广东房地产开发有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -169.924576,207.926239 L -276.757874,411.740082"
+              class="id_东莞市凯星房地产开发有限公司 id_刘志强" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.438801,-190.902588 L 91.585121,-352.511017"
+              class="id_恒大地产集团盐城城南置业有限公司 id_王艳杰" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 47.116558,-178.436478 L 14.194309,-171.489532"
+              class="id_恒大地产集团盐城城南置业有限公司 id_恒大地产集团上海盛建置业有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -217.681198,259.183380 L -380.992920,415.276917"
+              class="id_南通金水湾置业有限公司 id_黄兆亚" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.197403,245.004150 L -141.876801,192.089218"
+              class="id_南通金水湾置业有限公司 id_恒大地产集团南京置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 247.200760,-165.145279 L 292.035339,-170.702118"
+              class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_段胜利" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 243.371078,-172.027756 L 316.427856,-262.636414"
+              class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_赵永军" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 240.880249,-173.520309 L 287.674744,-283.853638"
+              class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_恒大地产集团呼和浩特有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 245.412445,-169.832001 L 385.844788,-267.090942"
+              class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_内蒙古远鹏房地产开发有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -98.810303,-102.608192 L -110.408478,-20.069132"
+              class="id_佛山市南海俊凯房地产开发有限公司 id_恒大地产集团广东房地产开发有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.385101,-123.306778 L -128.554367,-270.891815"
+              class="id_佛山市南海俊凯房地产开发有限公司 id_杨昕" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.613922,32.826759 L 393.101868,22.735390"
+              class="id_沧州恒祥房地产开发有限公司 id_张亮" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 284.880890,29.143330 L 267.132050,19.843670"
+              class="id_沧州恒祥房地产开发有限公司 id_河北恒润房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#ec7b4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 302.980652,28.287109 L 367.448883,-13.690248"
+              class="id_沧州恒祥房地产开发有限公司 id_江海军" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.679962,33.834305 L 476.204468,30.857744"
+              class="id_沧州恒祥房地产开发有限公司 id_浙商金汇信托股份有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 283.714020,34.841751 L 235.424744,38.648880"
+              class="id_沧州恒祥房地产开发有限公司 id_恒大地产集团石家庄有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 121.056198,326.259796 L 162.894318,473.850464"
+              class="id_新疆白天鹅房地产开发有限公司 id_周坤先" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.286377,324.708588 L 195.042877,423.992920"
+              class="id_新疆白天鹅房地产开发有限公司 id_倪卓斐" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 127.018372,321.845978 L 159.014297,342.467072"
+              class="id_新疆白天鹅房地产开发有限公司 id_恒大地产集团乌鲁木齐有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 214.952103,-233.285690 L 273.448792,-387.569122"
+              class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_金勇" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 217.589218,-231.822647 L 320.473175,-366.986359"
+              class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_内蒙古宏泰房地产开发有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.068924,-230.453033 L 282.866730,-287.300903"
+              class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_恒大地产集团呼和浩特有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 220.850906,-227.672501 L 312.531250,-267.739624"
+              class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_赵永军" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 305.790070,156.114960 L 468.353790,189.317154"
+              class="id_大连恒诚房地产开发有限公司 id_李庆华" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.782532,158.926025 L 449.102386,235.318497"
+              class="id_大连恒诚房地产开发有限公司 id_王晓平" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 286.769592,148.183945 L 225.203629,107.083740"
+              class="id_大连恒诚房地产开发有限公司 id_恒大地产集团大连有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -33.564388,-134.446716 L -71.035011,-212.309937"
+              class="id_江苏俊朗置业有限公司 id_郑奎" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.070595,-133.643188 L -6.652753,-157.570679"
+              class="id_江苏俊朗置业有限公司 id_恒大地产集团上海盛建置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 83.445320,-137.252274 L 20.037193,-114.070938"
+              class="id_佛山市三水盈盛房地产发展有限公司 id_恒大地产集团珠三角房地产开发有限公司"
+              stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.041672,-150.670929 L 151.808975,-294.577728"
+              class="id_佛山市三水盈盛房地产发展有限公司 id_曹海" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.349716,204.625092 L 272.099060,261.983582"
+              class="id_潍坊金碧置业有限公司 id_谈朝晖" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 172.628281,191.952240 L 138.345978,163.604111"
+              class="id_潍坊金碧置业有限公司 id_恒大地产集团济南置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 190.788605,201.622665 L 295.011383,232.462082"
+              class="id_潍坊金碧置业有限公司 id_孙欢" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 181.765121,-76.412376 L 294.766724,-164.087082"
+              class="id_北京恒兴盛房地产开发有限公司 id_段胜利" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 165.723633,-62.886784 L 131.791199,-31.830658"
+              class="id_北京恒兴盛房地产开发有限公司 id_天津金碧投资有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.933533,-6.306207 L -363.707336,-61.382755"
+              class="id_盐城普耀置业有限公司 id_刘曙" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -188.659302,151.504044 L -143.524582,176.621841"
+              class="id_扬州盛基房地产开发有限公司 id_恒大地产集团南京置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -207.964935,149.158417 L -351.692871,188.319778"
+              class="id_扬州盛基房地产开发有限公司 id_周鹏" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -48.602455,-111.998497 L -73.596512,-211.382309"
+              class="id_无锡云厦置业有限公司 id_郑奎" stroke-opacity="1.0" stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -40.002453,-110.405067 L -6.779382,-157.658630"
+              class="id_无锡云厦置业有限公司 id_恒大地产集团上海盛建置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 203.884750,183.813538 L 274.034119,259.757538"
+              class="id_山东普云房地产开发有限公司 id_谈朝晖" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 205.994156,181.098938 L 296.084351,229.865967"
+              class="id_山东普云房地产开发有限公司 id_孙欢" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 186.721451,173.022659 L 140.849152,158.958405"
+              class="id_山东普云房地产开发有限公司 id_恒大地产集团济南置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -54.749058,135.864212 L -63.882446,114.893806"
+              class="id_吉林市恒大宏盛房地产开发有限公司 id_恒大地产集团长春有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -8.143762,65.079048 L -387.487152,80.194641"
+              class="id_恒大地产集团有限公司 id_山东高速地产集团有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.955975,78.993515 L 36.531857,153.170746"
+              class="id_恒大地产集团有限公司 id_潘大荣" stroke-opacity="1.0" stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.925240,73.873116 L -154.400452,190.329407"
+              class="id_恒大地产集团有限公司 id_东莞市凯星房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.217060,49.481651 L 54.678898,-167.379456"
+              class="id_恒大地产集团有限公司 id_恒大地产集团盐城城南置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.519497,60.103100 L -151.471985,17.234476"
+              class="id_恒大地产集团有限公司 id_泉州市钻石投资发展有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.778048,60.004707 L 83.902290,41.049084"
+              class="id_恒大地产集团有限公司 id_时守明" stroke-opacity="1.0" stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.439331,74.465576 L -199.870056,243.108673"
+              class="id_恒大地产集团有限公司 id_南通金水湾置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.679787,59.694527 L 286.557281,-27.324718"
+              class="id_恒大地产集团有限公司 id_河北云江房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -6.747679,58.058300 L -144.916000,-5.711566"
+              class="id_恒大地产集团有限公司 id_晋江金碧置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.993807,53.682201 L 227.207214,-154.335236"
+              class="id_恒大地产集团有限公司 id_呼和浩特市恒大远鹏房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.618585,51.285393 L -90.499794,-101.372673"
+              class="id_恒大地产集团有限公司 id_佛山市南海俊凯房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.947499,79.611374 L -18.585232,241.825546"
+              class="id_恒大地产集团有限公司 id_许家印" stroke-opacity="1.0" stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 22.358715,62.855679 L 280.756897,35.440788"
+              class="id_恒大地产集团有限公司 id_沧州恒祥房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -8.113489,63.331547 L -369.716156,36.353237"
+              class="id_恒大地产集团有限公司 id_山东高速投资控股有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.320251,78.467926 L 112.743019,303.806610"
+              class="id_恒大地产集团有限公司 id_新疆白天鹅房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 5.217598,79.648102 L -7.130462,176.933792"
+              class="id_恒大地产集团有限公司 id_甄立涛" stroke-opacity="1.0" stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.991516,51.987358 L 203.423065,-212.453705"
+              class="id_恒大地产集团有限公司 id_呼和浩特市恒大宏泰房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.755821,69.007256 L 282.609741,150.010239"
+              class="id_恒大地产集团有限公司 id_大连恒诚房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.692336,77.610664 L -103.998917,250.843552"
+              class="id_恒大地产集团有限公司 id_南安金碧置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.276039,49.441101 L -26.480560,-111.724609"
+              class="id_恒大地产集团有限公司 id_江苏俊朗置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 16.774899,76.358437 L 189.722198,289.850128"
+              class="id_恒大地产集团有限公司 id_广州市凯隆置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.064401,50.361721 L 88.083160,-128.409195"
+              class="id_恒大地产集团有限公司 id_佛山市三水盈盛房地产发展有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 19.249195,73.827057 L 170.039185,190.387085"
+              class="id_恒大地产集团有限公司 id_潍坊金碧置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 19.042892,54.851723 L 162.970337,-61.489254"
+              class="id_恒大地产集团有限公司 id_北京恒兴盛房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.512800,60.080673 L -203.251175,1.464212"
+              class="id_恒大地产集团有限公司 id_盐城普耀置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.589233,54.650574 L -166.840332,-81.132858"
+              class="id_恒大地产集团有限公司 id_龙岩恒大置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 20.957916,71.047768 L 76.742203,97.611252"
+              class="id_恒大地产集团有限公司 id_苏州工业园区睿灿投资企业（有限合伙）" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.511436,79.765472 L 14.139888,355.773193"
+              class="id_恒大地产集团有限公司 id_海南恒乾材料设备有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 22.131865,61.394634 L 241.949570,16.291624"
+              class="id_恒大地产集团有限公司 id_河北恒润房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -7.063095,70.148384 L -185.298477,141.387665"
+              class="id_恒大地产集团有限公司 id_扬州盛基房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.247253,50.046013 L 33.235676,-9.277021"
+              class="id_恒大地产集团有限公司 id_南京润恒企业管理有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.483079,49.897137 L -41.928883,-88.957283"
+              class="id_恒大地产集团有限公司 id_无锡云厦置业有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 20.328911,72.232025 L 185.126572,169.251541"
+              class="id_恒大地产集团有限公司 id_山东普云房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.427540,75.530182 L -171.622620,251.499786"
+              class="id_恒大地产集团有限公司 id_徐州九龙苑酒店管理有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.495590,79.398293 L 72.775429,356.809448"
+              class="id_恒大地产集团有限公司 id_恒大集团有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.731348,76.932480 L -42.725040,134.494370"
+              class="id_恒大地产集团有限公司 id_吉林市恒大宏盛房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#eb5241"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.535568,40.912174 L 25.323751,62.374535"
+              class="id_恒大地产集团石家庄有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.754562,43.510437 L 330.706024,81.931351"
+              class="id_恒大地产集团石家庄有限公司 id_恒大园林集团有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 119.539917,148.704163 L 21.788017,75.444664"
+              class="id_恒大地产集团济南置业有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 64.080841,595.842346 L 103.332512,743.312439"
+              class="id_恒大旅游集团有限公司 id_启东勤盛置业有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 60.807476,596.179993 L 52.542950,747.494141"
+              class="id_恒大旅游集团有限公司 id_汤济泽" stroke-opacity="1.0" stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 62.077190,575.218811 L 74.836380,383.451782"
+              class="id_恒大旅游集团有限公司 id_恒大集团有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -123.747047,176.363785 L -6.765951,76.361061"
+              class="id_恒大地产集团南京置业有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -712.002686,30.249935 L -870.554688,14.670746"
+              class="id_山东高速集团有限公司 id_孙亮" stroke-opacity="1.0" stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -711.660156,28.431633 L -820.888855,-2.315179"
+              class="id_山东高速集团有限公司 id_山东鲁桥建设有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -711.841125,33.375164 L -867.072693,65.037354"
+              class="id_山东高速集团有限公司 id_山东高速绿城置业投资有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -711.199829,27.130844 L -854.998657,-34.668709"
+              class="id_山东高速集团有限公司 id_山东省公路桥梁建设有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -711.914429,32.976944 L -822.794006,51.171421"
+              class="id_山东高速集团有限公司 id_山东高速青岛公路有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -709.704102,24.657873 L -810.989197,-57.587105"
+              class="id_山东高速集团有限公司 id_山东省人民政府国有资产监督管理委员会" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -710.770203,36.305954 L -833.722656,103.393349"
+              class="id_山东高速集团有限公司 id_李航" stroke-opacity="1.0" stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -59.873672,97.836952 L -9.237753,72.626144"
+              class="id_恒大地产集团长春有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -176.177917,82.546272 L -304.715668,108.407234"
+              class="id_恒大地产集团福州有限公司 id_邓满连" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -155.428818,79.508110 L -11.078100,66.155457"
+              class="id_恒大地产集团福州有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.847687,90.526596 L -114.817490,249.515182"
+              class="id_恒大地产集团福州有限公司 id_南安金碧置业有限公司" stroke-opacity="1.0"
+              stroke="#f0a340"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.515610,-313.122162 L -301.054901,-417.804108"
+              class="id_太原市俊恒房地产开发有限公司 id_太原恒德隆房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -224.242599,-313.909241 L -304.490173,-467.144104"
+              class="id_太原市俊恒房地产开发有限公司 id_运城市鑫万瑞房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -213.879089,-295.658539 L -2.428202,48.873055"
+              class="id_太原市俊恒房地产开发有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -226.841049,-311.986847 L -345.103241,-428.818695"
+              class="id_太原市俊恒房地产开发有限公司 id_闫彪" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -228.321289,-310.098419 L -351.236481,-385.508392"
+              class="id_太原市俊恒房地产开发有限公司 id_临汾市紫旌房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.440247,-314.649078 L -260.287170,-438.487213"
+              class="id_太原市俊恒房地产开发有限公司 id_阳泉市燎原房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -218.685638,-315.085114 L -208.840256,-465.510529"
+              class="id_太原市俊恒房地产开发有限公司 id_太原恒睿房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.310898,-314.926849 L -252.678741,-481.823273"
+              class="id_太原市俊恒房地产开发有限公司 id_山西嘉盛房地产开发有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.262425,-158.205917 L 6.660904,46.176262"
+              class="id_恒大地产集团上海盛建置业有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.861226,-179.201523 L -1.038955,-340.155579"
+              class="id_恒大地产集团上海盛建置业有限公司 id_杨松涛" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.412964,165.619720 L -739.616455,225.693680"
+              class="id_姜连梅 id_郝德辉" stroke-opacity="1.0" stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.417053,-13.345196 L -234.515091,-106.598099"
+              class="id_恒大地产集团广东房地产开发有限公司 id_吉兴顺" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -103.267105,-1.325406 L -8.576300,55.101913"
+              class="id_恒大地产集团广东房地产开发有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -288.294891,432.778992 L -363.989868,563.237915"
+              class="id_刘志强 id_蒋渝蓉" stroke-opacity="1.0" stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.179932,432.026154 L -503.604614,537.360291"
+              class="id_黄兆亚 id_孙雅慧" stroke-opacity="1.0" stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 174.105392,359.590393 L 198.064560,422.373962"
+              class="id_恒大地产集团乌鲁木齐有限公司 id_倪卓斐" stroke-opacity="1.0"
+              stroke="#f4cb31"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 165.147903,340.666382 L 16.231131,80.354340"
+              class="id_恒大地产集团乌鲁木齐有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 174.826080,359.284119 L 246.970154,512.865356"
+              class="id_恒大地产集团乌鲁木齐有限公司 id_恒大地产集团包头有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 177.176147,357.768799 L 287.218994,486.770355"
+              class="id_恒大地产集团乌鲁木齐有限公司 id_青岛金湾置业有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.424850,98.556282 L 329.856018,88.144455"
+              class="id_恒大地产集团大连有限公司 id_恒大园林集团有限公司" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 203.623840,97.830528 L 25.185886,67.533226"
+              class="id_恒大地产集团大连有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.608243,-102.595245 L -102.044762,-15.495144"
+              class="id_恒大地产集团珠三角房地产开发有限公司 id_恒大地产集团广东房地产开发有限公司"
+              stroke-opacity="1.0" stroke="#f4cb31"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.345040,-98.935555 L 7.166609,46.169891"
+              class="id_恒大地产集团珠三角房地产开发有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 8.470162,-119.876472 L 24.375971,-269.192963"
+              class="id_恒大地产集团珠三角房地产开发有限公司 id_王全喜" stroke-opacity="1.0"
+              stroke="#f8dc61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 113.473618,-16.361702 L 21.712479,53.395020"
+              class="id_天津金碧投资有限公司 id_恒大地产集团有限公司" stroke-opacity="1.0"
+              stroke="#ef7a32"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北云江房地产开发有限公司 id_石家庄纬度商贸有限公司"
+                  points="475.848541,-79.325691 473.344910,-77.093674 472.560730,-79.989380"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北云江房地产开发有限公司 id_恒大地产集团石家庄有限公司"
+                  points="229.692535,32.599476 230.884186,29.464199 232.915741,31.671635"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_河北云江房地产开发有限公司 id_河北恒润房地产开发有限公司"
+                  points="262.522858,6.078500 263.551147,2.885907 265.693909,4.985564"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北云江房地产开发有限公司 id_江海军"
+                  points="368.352386,-22.431143 365.181854,-21.336781 365.574554,-24.310963"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北云江房地产开发有限公司 id_刘聪笑"
+                  points="456.823944,-117.854942 454.914429,-115.097435 453.472229,-117.728020"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_广州市凯隆置业有限公司 id_李国东"
+                  points="355.194977,389.880035 351.845886,389.696564 353.332275,387.090668"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_广州市凯隆置业有限公司 id_广州市超丰置业有限公司"
+                  points="326.964874,424.672760 323.764893,423.667725 325.848938,421.509766"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_海南恒乾材料设备有限公司 id_恒大旅游集团有限公司"
+                  points="59.155628,575.433960 57.054111,572.819885 59.986012,572.184265"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_海南恒乾材料设备有限公司 id_许家印"
+                  points="-17.444778,265.224213 -15.131091,267.652527 -17.999241,268.532166"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_海南恒乾材料设备有限公司 id_潘云淼"
+                  points="-12.227089,534.998352 -13.230994,531.797974 -10.269160,532.275024"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_泉州市钻石投资发展有限公司 id_恒大地产集团福州有限公司"
+                  points="-165.653610,69.977776 -167.087357,66.945564 -164.088089,67.011436"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_泉州市钻石投资发展有限公司 id_王明甲"
+                  points="-263.465027,-32.070908 -260.112793,-32.183075 -261.363953,-29.456427"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_龙岩恒大置业有限公司 id_泉州市钻石投资发展有限公司"
+                  points="-165.701447,2.961102 -167.558914,0.168291 -164.581680,-0.200561"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_龙岩恒大置业有限公司 id_恒大地产集团福州有限公司"
+                  points="-166.580032,69.998322 -168.275558,67.104332 -165.282150,66.905510"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_龙岩恒大置业有限公司 id_陈利波"
+                  points="-303.759735,-187.358749 -300.467926,-186.715240 -302.299469,-184.339203"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_龙岩恒大置业有限公司 id_太原市俊恒房地产开发有限公司"
+                  points="-217.348343,-294.304291 -215.298447,-291.649475 -218.242233,-291.071472"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东高速投资控股有限公司 id_山东高速集团有限公司"
+                  points="-691.053833,31.410999 -688.034912,29.949490 -688.073242,32.949245"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东高速投资控股有限公司 id_曾卫兵"
+                  points="-527.919495,5.675728 -524.679321,4.808784 -525.281860,7.747662"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_晋江金碧置业有限公司 id_泉州市钻石投资发展有限公司"
+                  points="-161.463638,3.303428 -162.061401,0.003022 -159.181976,0.844970"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_晋江金碧置业有限公司 id_恒大地产集团福州有限公司"
+                  points="-164.892792,70.022148 -166.102829,66.893929 -163.116226,67.177177"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_晋江金碧置业有限公司 id_王明甲"
+                  points="-262.746094,-34.227928 -259.496613,-35.059093 -260.131500,-32.127041"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_晋江金碧置业有限公司 id_龙岩恒大置业有限公司"
+                  points="-174.596298,-79.623184 -172.400894,-77.087387 -175.307693,-76.345383"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东高速地产集团有限公司 id_姜连梅"
+                  points="-598.199951,157.192078 -595.945007,154.709091 -594.860657,157.506241"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东高速地产集团有限公司 id_山东高速集团有限公司"
+                  points="-691.192261,32.981411 -687.988525,31.988369 -688.475586,34.948566"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北恒润房地产开发有限公司 id_恒大地产集团石家庄有限公司"
+                  points="230.218002,33.216640 231.647964,30.182631 233.503189,32.540203"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北恒润房地产开发有限公司 id_张亮"
+                  points="396.028229,20.677206 392.956543,22.024298 393.107544,19.028101"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_河北恒润房地产开发有限公司 id_江海军"
+                  points="368.651550,-18.223194 366.167603,-15.969296 365.358032,-18.858006"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_恒大集团有限公司 id_广州市凯隆置业有限公司"
+                  points="189.092148,305.529755 187.225601,308.316498 185.742813,305.708527"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_恒大集团有限公司 id_海南恒乾材料设备有限公司"
+                  points="24.963293,369.391357 27.980528,367.926331 27.945654,370.926147"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_恒大集团有限公司 id_刘玉芝"
+                  points="110.961739,535.072388 108.868683,532.451477 111.802628,531.825378"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_徐州九龙苑酒店管理有限公司 id_邳州瑞丰酒店管理有限公司"
+                  points="-320.121033,345.502319 -318.331390,342.665588 -316.777863,345.231995"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_徐州九龙苑酒店管理有限公司 id_张烨"
+                  points="-284.757690,378.336639 -283.889771,375.096771 -281.645081,377.087067"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_徐州九龙苑酒店管理有限公司 id_恒大地产集团南京置业有限公司"
+                  points="-137.328110,192.068665 -137.659210,195.406403 -140.196960,193.806427"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0" class="id_南安金碧置业有限公司 id_许家印"
+                  points="-30.989777,256.025482 -33.860191,257.760620 -34.100136,254.770218"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_南安金碧置业有限公司 id_陈心建"
+                  points="-183.335236,407.358673 -183.335953,404.004578 -180.652390,405.345642"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_南安金碧置业有限公司 id_厦门金碧置业有限公司"
+                  points="-140.217926,427.412231 -141.170120,424.196136 -138.216354,424.720795"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_东莞市凯星房地产开发有限公司 id_恒大地产集团广东房地产开发有限公司"
+                  points="-114.900291,3.469130 -114.194145,6.748056 -117.099739,6.001403"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_东莞市凯星房地产开发有限公司 id_刘志强"
+                  points="-278.150635,414.397186 -278.086426,411.043701 -275.429321,412.436462"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_恒大地产集团盐城城南置业有限公司 id_王艳杰"
+                  points="92.170395,-355.453369 93.056297,-352.218384 90.113945,-352.803650"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_恒大地产集团盐城城南置业有限公司 id_恒大地产集团上海盛建置业有限公司"
+                  points="11.258946,-170.870132 13.884613,-172.957214 14.504005,-170.021851"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_南通金水湾置业有限公司 id_黄兆亚"
+                  points="-383.161621,417.349762 -382.029358,414.192566 -379.956482,416.361267"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_南通金水湾置业有限公司 id_恒大地产集团南京置业有限公司"
+                  points="-139.621552,190.110855 -140.887619,193.216843 -142.865982,190.961594"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_段胜利"
+                  points="295.012573,-171.071106 292.219849,-169.213501 291.850830,-172.190735"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_赵永军"
+                  points="318.310883,-264.971832 317.595581,-261.694885 315.260132,-263.577942"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_恒大地产集团呼和浩特有限公司"
+                  points="288.846100,-286.615509 289.055664,-283.267944 286.293823,-284.439331"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大远鹏房地产开发有限公司 id_内蒙古远鹏房地产开发有限公司"
+                  points="388.311066,-268.799011 386.698822,-265.857819 384.990753,-268.324066"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_佛山市南海俊凯房地产开发有限公司 id_恒大地产集团广东房地产开发有限公司"
+                  points="-110.825935,-17.098318 -111.893883,-20.277857 -108.923073,-19.860407"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_佛山市南海俊凯房地产开发有限公司 id_杨昕"
+                  points="-129.136047,-273.834869 -127.082832,-271.182648 -130.025894,-270.600983"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_沧州恒祥房地产开发有限公司 id_张亮"
+                  points="396.082550,22.395466 393.271820,24.225729 392.931915,21.245050"
+                  stroke="none"/>
+        <polyline fill="#ec7b4f" fill-opacity="1.0"
+                  class="id_沧州恒祥房地产开发有限公司 id_河北恒润房地产开发有限公司"
+                  points="264.474731,18.451336 267.828217,18.515003 266.435883,21.172337"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_沧州恒祥房地产开发有限公司 id_江海军"
+                  points="369.962921,-15.327215 368.267365,-12.433234 366.630402,-14.947263"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_沧州恒祥房地产开发有限公司 id_浙商金汇信托股份有限公司"
+                  points="479.204010,30.805691 476.230499,32.357517 476.178436,29.357969"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_沧州恒祥房地产开发有限公司 id_恒大地产集团石家庄有限公司"
+                  points="232.434021,38.884666 235.306854,37.153519 235.542633,40.144241"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_新疆白天鹅房地产开发有限公司 id_周坤先"
+                  points="163.712494,476.736725 161.451187,474.259552 164.337448,473.441376"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_新疆白天鹅房地产开发有限公司 id_倪卓斐"
+                  points="196.783966,426.436005 193.821335,424.863464 196.264420,423.122375"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_新疆白天鹅房地产开发有限公司 id_恒大地产集团乌鲁木齐有限公司"
+                  points="161.535965,344.092285 158.201706,343.727905 159.826889,341.206238"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_金勇"
+                  points="274.512360,-390.374268 274.851349,-387.037323 272.046234,-388.100922"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_内蒙古宏泰房地产开发有限公司"
+                  points="322.290222,-369.373474 321.666748,-366.077850 319.279602,-367.894867"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_恒大地产集团呼和浩特有限公司"
+                  points="285.106537,-289.296692 283.864624,-286.181000 281.868835,-288.420807"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_呼和浩特市恒大宏泰房地产开发有限公司 id_赵永军"
+                  points="315.280182,-268.941010 313.131927,-266.365143 311.930573,-269.114105"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_大连恒诚房地产开发有限公司 id_李庆华"
+                  points="471.293091,189.917480 468.053619,190.786819 468.653961,187.847488"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_大连恒诚房地产开发有限公司 id_王晓平"
+                  points="451.753845,236.721985 448.400635,236.644226 449.804138,233.992767"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_大连恒诚房地产开发有限公司 id_恒大地产集团大连有限公司"
+                  points="222.708527,105.418060 226.036469,105.836189 224.370789,108.331291"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_江苏俊朗置业有限公司 id_郑奎"
+                  points="-72.335915,-215.013199 -69.683380,-212.960388 -72.386642,-211.659485"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_江苏俊朗置业有限公司 id_恒大地产集团上海盛建置业有限公司"
+                  points="-4.955435,-160.044357 -5.415911,-156.722015 -7.889595,-158.419342"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_佛山市三水盈盛房地产发展有限公司 id_恒大地产集团珠三角房地产开发有限公司"
+                  points="17.219584,-113.040855 19.522150,-115.479744 20.552237,-112.662132"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_佛山市三水盈盛房地产发展有限公司 id_曹海"
+                  points="152.876038,-297.381531 153.210876,-294.044189 150.407074,-295.111267"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_潍坊金碧置业有限公司 id_谈朝晖"
+                  points="274.564636,263.692657 271.244537,263.216370 272.953583,260.750793"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_潍坊金碧置业有限公司 id_恒大地产集团济南置业有限公司"
+                  points="136.034012,161.692352 139.301865,162.448135 137.390091,164.760086"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_潍坊金碧置业有限公司 id_孙欢"
+                  points="297.888062,233.313293 294.585785,233.900436 295.436981,231.023727"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_北京恒兴盛房地产开发有限公司 id_段胜利"
+                  points="297.136963,-165.926086 295.686218,-162.901962 293.847229,-165.272202"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_北京恒兴盛房地产开发有限公司 id_天津金碧投资有限公司"
+                  points="129.578156,-29.805208 130.778473,-32.937180 132.803925,-30.724138"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_盐城普耀置业有限公司 id_刘曙"
+                  points="-366.492981,-62.496353 -363.150543,-62.775585 -364.264130,-59.989925"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_扬州盛基房地产开发有限公司 id_恒大地产集团南京置业有限公司"
+                  points="-140.903168,178.080673 -144.253998,177.932541 -142.795166,175.311142"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_扬州盛基房地产开发有限公司 id_周鹏"
+                  points="-354.587372,189.108429 -352.087189,186.872543 -351.298553,189.767014"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0" class="id_无锡云厦置业有限公司 id_郑奎"
+                  points="-74.328194,-214.291702 -72.141808,-211.748154 -75.051216,-211.016464"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_无锡云厦置业有限公司 id_恒大地产集团上海盛建置业有限公司"
+                  points="-5.053924,-160.112762 -5.552312,-156.795898 -8.006451,-158.521362"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东普云房地产开发有限公司 id_谈朝晖"
+                  points="276.069672,261.961273 272.932251,260.775330 275.135986,258.739746"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东普云房地产开发有限公司 id_孙欢"
+                  points="298.722595,231.294098 295.370300,231.185104 296.798401,228.546829"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_山东普云房地产开发有限公司 id_恒大地产集团济南置业有限公司"
+                  points="137.980927,158.079025 141.288849,157.524292 140.409454,160.392517"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_吉林市恒大宏盛房地产开发有限公司 id_恒大地产集团长春有限公司"
+                  points="-65.080368,112.143356 -62.507221,114.294846 -65.257675,115.492767"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_山东高速地产集团有限公司"
+                  points="-390.484772,80.314087 -387.546875,78.695831 -387.427429,81.693451"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0" class="id_恒大地产集团有限公司 id_潘大荣"
+                  points="37.475361,156.018524 35.107971,153.642502 37.955742,152.698990"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_东莞市凯星房地产开发有限公司"
+                  points="-156.766983,192.173187 -155.322342,189.146133 -153.478561,191.512680"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_恒大地产集团盐城城南置业有限公司"
+                  points="55.281437,-170.318314 56.148331,-167.078186 53.209465,-167.680725"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_泉州市钻石投资发展有限公司"
+                  points="-154.347198,16.378246 -151.043869,15.796868 -151.900101,18.672085"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0" class="id_恒大地产集团有限公司 id_时守明"
+                  points="86.771690,40.173561 84.340050,42.483784 83.464531,39.614384"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_南通金水湾置业有限公司"
+                  points="-202.141312,245.068619 -200.850021,241.973038 -198.890091,244.244308"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_河北云江房地产开发有限公司"
+                  points="289.407410,-28.261063 287.025452,-25.899652 286.089111,-28.749784"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_晋江金碧置业有限公司"
+                  points="-147.639893,-6.968739 -144.287415,-7.073506 -145.544586,-4.349627"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_呼和浩特市恒大远鹏房地产开发有限公司"
+                  points="229.334610,-156.450470 228.264832,-153.271545 226.149597,-155.398926"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_佛山市南海俊凯房地产开发有限公司"
+                  points="-92.021889,-103.957870 -89.207199,-102.133720 -91.792389,-100.611626"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0" class="id_恒大地产集团有限公司 id_许家印"
+                  points="-19.015940,244.794464 -20.069693,241.610199 -17.100771,242.040894"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_沧州恒祥房地产开发有限公司"
+                  points="283.740143,35.124275 280.915161,36.932415 280.598633,33.949162"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_山东高速投资控股有限公司"
+                  points="-372.707855,36.130035 -369.604553,34.857395 -369.827759,37.849079"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_新疆白天鹅房地产开发有限公司"
+                  points="113.954025,306.551331 111.370659,304.412109 114.115379,303.201111"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0" class="id_恒大地产集团有限公司 id_甄立涛"
+                  points="-7.508209,179.909912 -8.618524,176.744919 -5.642401,177.122665"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_呼和浩特市恒大宏泰房地产开发有限公司"
+                  points="205.157852,-214.901260 204.646835,-211.586319 202.199295,-213.321091"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_大连恒诚房地产开发有限公司"
+                  points="285.474792,150.899918 282.164886,151.442764 283.054596,148.577713"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_南安金碧置业有限公司"
+                  points="-105.535469,253.420166 -105.287231,250.075272 -102.710602,251.611832"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_江苏俊朗置业有限公司"
+                  points="-27.042927,-114.671432 -25.007151,-112.005791 -27.953970,-111.443428"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_广州市凯隆置业有限公司"
+                  points="191.610596,292.181213 188.556656,290.794312 190.887741,288.905945"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_佛山市三水盈盛房地产发展有限公司"
+                  points="89.244003,-131.175507 89.466316,-127.828773 86.700005,-128.989609"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_潍坊金碧置业有限公司"
+                  points="172.412720,192.221817 169.121811,191.573853 170.956558,189.200317"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_北京恒兴盛房地产开发有限公司"
+                  points="165.303436,-63.375168 163.913300,-60.322708 162.027374,-62.655800"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_盐城普耀置业有限公司"
+                  points="-206.125076,0.603584 -202.820862,0.027261 -203.681488,2.901163"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_龙岩恒大置业有限公司"
+                  points="-169.140991,-83.058212 -165.877655,-82.283188 -167.803009,-79.982529"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_苏州工业园区睿灿投资企业（有限合伙）"
+                  points="79.450798,98.901039 76.097313,98.965546 77.387093,96.256958"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_海南恒乾材料设备有限公司"
+                  points="14.211913,358.772339 12.640320,355.809204 15.639456,355.737183"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_河北恒润房地产开发有限公司"
+                  points="244.888336,15.688636 242.251068,17.761013 241.648071,14.822236"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_扬州盛基房地产开发有限公司"
+                  points="-188.084198,142.501099 -185.855194,139.994797 -184.741760,142.780533"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_南京润恒企业管理有限公司"
+                  points="34.236294,-12.105230 34.649780,-8.776712 31.821571,-9.777330"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_无锡云厦置业有限公司"
+                  points="-42.842812,-91.814682 -40.500183,-89.414246 -43.357582,-88.500320"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_山东普云房地产开发有限公司"
+                  points="187.711823,170.773529 184.365570,170.544174 185.887573,167.958908"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_徐州九龙苑酒店管理有限公司"
+                  points="-173.695496,253.668472 -172.706970,250.463348 -170.538269,252.536224"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_恒大集团有限公司"
+                  points="73.432579,359.736572 71.311859,357.138031 74.238998,356.480865"
+                  stroke="none"/>
+        <polyline fill="#eb5241" fill-opacity="1.0"
+                  class="id_恒大地产集团有限公司 id_吉林市恒大宏盛房地产开发有限公司"
+                  points="-44.465328,136.938019 -43.946865,133.624222 -41.503216,135.364517"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团石家庄有限公司 id_恒大地产集团有限公司"
+                  points="22.343483,62.718033 25.152002,60.884399 25.495501,63.864670"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团石家庄有限公司 id_恒大园林集团有限公司"
+                  points="333.502625,83.017204 330.163086,83.329643 331.248962,80.533058"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团济南置业有限公司 id_恒大地产集团有限公司"
+                  points="19.387379,73.645515 22.687590,74.244347 20.888445,76.644981"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大旅游集团有限公司 id_启东勤盛置业有限公司"
+                  points="104.104149,746.211487 101.882980,743.698242 104.782043,742.926636"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0" class="id_恒大旅游集团有限公司 id_汤济泽"
+                  points="52.379337,750.489685 51.045181,747.412354 54.040718,747.575928"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_恒大旅游集团有限公司 id_恒大集团有限公司"
+                  points="75.035545,380.458405 76.333069,383.551361 73.339691,383.352203"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团南京置业有限公司 id_恒大地产集团有限公司"
+                  points="-4.485615,74.411690 -5.791264,77.501228 -7.740639,75.220894"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0" class="id_山东高速集团有限公司 id_孙亮"
+                  points="-873.540283,14.377380 -870.408020,13.177935 -870.701355,16.163557"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_山东高速集团有限公司 id_山东鲁桥建设有限公司"
+                  points="-823.776672,-3.128058 -820.482422,-3.759065 -821.295288,-0.871293"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_山东高速集团有限公司 id_山东高速绿城置业投资有限公司"
+                  points="-870.012207,65.636917 -867.372498,63.567616 -866.772888,66.507095"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_山东高速集团有限公司 id_山东省公路桥梁建设有限公司"
+                  points="-857.754883,-35.853241 -854.406372,-36.046829 -855.590942,-33.290588"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_山东高速集团有限公司 id_山东高速青岛公路有限公司"
+                  points="-825.754395,51.657200 -823.036926,49.691216 -822.551086,52.651627"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_山东高速集团有限公司 id_山东省人民政府国有资产监督管理委员会"
+                  points="-813.318115,-59.478199 -810.043640,-58.751553 -811.934753,-56.422657"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0" class="id_山东高速集团有限公司 id_李航"
+                  points="-836.356140,104.830269 -834.441101,102.076607 -833.004211,104.710091"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团长春有限公司 id_恒大地产集团有限公司"
+                  points="-6.552204,71.289055 -8.569206,73.968918 -9.906300,71.283371"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团福州有限公司 id_邓满连"
+                  points="-307.656738,108.998962 -305.011536,106.936699 -304.419800,109.877769"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团福州有限公司 id_恒大地产集团有限公司"
+                  points="-8.090855,65.879135 -10.939938,67.649078 -11.216263,64.661835"
+                  stroke="none"/>
+        <polyline fill="#f0a340" fill-opacity="1.0"
+                  class="id_恒大地产集团福州有限公司 id_南安金碧置业有限公司"
+                  points="-113.949921,252.387009 -116.253395,249.948975 -113.381584,249.081390"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_太原恒德隆房地产开发有限公司"
+                  points="-302.810364,-420.236847 -299.838531,-418.681854 -302.271271,-416.926361"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_运城市鑫万瑞房地产开发有限公司"
+                  points="-305.881927,-469.801727 -303.161346,-467.839996 -305.819000,-466.448212"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_恒大地产集团有限公司"
+                  points="-0.858972,51.429909 -3.706630,49.657669 -1.149773,48.088440"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_闫彪"
+                  points="-347.237427,-430.927094 -344.049042,-429.885803 -346.157440,-427.751587"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_临汾市紫旌房地产开发有限公司"
+                  points="-353.793579,-387.077209 -350.452057,-386.786957 -352.020905,-384.229828"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_阳泉市燎原房地产开发有限公司"
+                  points="-261.163971,-441.356201 -258.852661,-438.925629 -261.721680,-438.048798"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_太原恒睿房地产开发有限公司"
+                  points="-208.644318,-468.504150 -207.343460,-465.412567 -210.337051,-465.608490"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_太原市俊恒房地产开发有限公司 id_山西嘉盛房地产开发有限公司"
+                  points="-253.232880,-484.771667 -251.204559,-482.100342 -254.152924,-481.546204"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团上海盛建置业有限公司 id_恒大地产集团有限公司"
+                  points="6.740118,49.175213 5.161427,46.215870 8.160381,46.136654"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团上海盛建置业有限公司 id_杨松涛"
+                  points="-1.074370,-343.155365 0.460940,-340.173279 -2.538850,-340.137878"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0" class="id_姜连梅 id_郝德辉"
+                  points="-742.308716,227.017181 -740.278198,224.347534 -738.954712,227.039825"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团广东房地产开发有限公司 id_吉兴顺"
+                  points="-236.837952,-108.496597 -233.565842,-107.759537 -235.464340,-105.436661"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团广东房地产开发有限公司 id_恒大地产集团有限公司"
+                  points="-5.999185,56.637642 -9.344166,56.390472 -7.808434,53.813354"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0" class="id_刘志强 id_蒋渝蓉"
+                  points="-365.495453,565.832764 -365.287292,562.485107 -362.692444,563.990723"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0" class="id_黄兆亚 id_孙雅慧"
+                  points="-505.726837,539.480652 -504.664825,536.299194 -502.544403,538.421387"
+                  stroke="none"/>
+        <polyline fill="#f4cb31" fill-opacity="1.0"
+                  class="id_恒大地产集团乌鲁木齐有限公司 id_倪卓斐"
+                  points="199.134171,425.176788 196.663132,422.908752 199.465988,421.839172"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团乌鲁木齐有限公司 id_恒大地产集团有限公司"
+                  points="14.741455,77.750328 17.533134,79.609505 14.929126,81.099174"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团乌鲁木齐有限公司 id_恒大地产集团包头有限公司"
+                  points="248.245667,515.580688 245.612488,513.503113 248.327820,512.227600"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团乌鲁木齐有限公司 id_青岛金湾置业有限公司"
+                  points="289.165955,489.052765 286.077789,487.743835 288.360199,485.796875"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团大连有限公司 id_恒大园林集团有限公司"
+                  points="332.841522,87.849625 330.003418,89.637192 329.708618,86.651718"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团大连有限公司 id_恒大地产集团有限公司"
+                  points="22.228218,67.031036 25.436981,66.054390 24.934792,69.012062"
+                  stroke="none"/>
+        <polyline fill="#f4cb31" fill-opacity="1.0"
+                  class="id_恒大地产集团珠三角房地产开发有限公司 id_恒大地产集团广东房地产开发有限公司"
+                  points="-104.320816,-13.540771 -103.021950,-16.633171 -101.067574,-14.357116"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_恒大地产集团珠三角房地产开发有限公司 id_恒大地产集团有限公司"
+                  points="7.162920,49.169891 5.666610,46.168045 8.666608,46.171738"
+                  stroke="none"/>
+        <polyline fill="#f8dc61" fill-opacity="1.0"
+                  class="id_恒大地产集团珠三角房地产开发有限公司 id_王全喜"
+                  points="24.693745,-272.176086 25.867533,-269.034088 22.884409,-269.351837"
+                  stroke="none"/>
+        <polyline fill="#ef7a32" fill-opacity="1.0"
+                  class="id_天津金碧投资有限公司 id_恒大地产集团有限公司"
+                  points="19.324223,55.210571 20.804703,52.200890 22.620255,54.589149"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="299.38287"
+                class="id_河北云江房地产开发有限公司" cy="-31.538267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="485.9835"
+                class="id_石家庄纬度商贸有限公司" cy="-82.07027" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="221.9665"
+                class="id_恒大地产集团石家庄有限公司" cy="39.709927" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="255.17406"
+                class="id_河北恒润房地产开发有限公司" cy="13.578175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="378.76202"
+                class="id_江海军" cy="-21.056595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="466.031"
+                class="id_刘聪笑" cy="-122.902695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="198.21996"
+                class="id_广州市凯隆置业有限公司" cy="300.34003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="364.31552"
+                class="id_李国东" cy="395.0825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="334.5178"
+                class="id_广州市超丰置业有限公司" cy="431.96683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="14.464003"
+                class="id_海南恒乾材料设备有限公司" cy="369.26932" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="61.380116"
+                class="id_恒大旅游集团有限公司" cy="585.6956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-20.523415"
+                class="id_许家印" cy="255.18568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-13.896627"
+                class="id_潘云淼" cy="545.36475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-164.41046"
+                class="id_泉州市钻石投资发展有限公司" cy="13.381437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-165.88419"
+                class="id_恒大地产集团福州有限公司" cy="80.47524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-273.0083"
+                class="id_王明甲" cy="-36.449947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-177.19328"
+                class="id_龙岩恒大置业有限公司" cy="-89.79695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-312.07584"
+                class="id_陈利波" cy="-193.76909" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-219.3714"
+                class="id_太原市俊恒房地产开发有限公司" cy="-304.60754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-383.17874"
+                class="id_山东高速投资控股有限公司" cy="35.348827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-701.553"
+                class="id_山东高速集团有限公司" cy="31.276712" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-538.20557"
+                class="id_曾卫兵" cy="3.5669951" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-157.17346"
+                class="id_晋江金碧置业有限公司" cy="-11.368842" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-400.97644"
+                class="id_山东高速地产集团有限公司" cy="80.73215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-607.99"
+                class="id_姜连梅" cy="160.98749" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="406.51492"
+                class="id_张亮" cy="21.205734" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="75.73262"
+                class="id_恒大集团有限公司" cy="369.98157" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="113.15302"
+                class="id_刘玉芝" cy="545.3412" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-180.95055"
+                class="id_徐州九龙苑酒店管理有限公司" cy="261.25888" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-329.10355"
+                class="id_邳州瑞丰酒店管理有限公司" cy="350.93967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-291.7237"
+                class="id_张烨" cy="386.19315" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-131.72823"
+                class="id_恒大地产集团南京置业有限公司" cy="183.1866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-110.91342"
+                class="id_南安金碧置业有限公司" cy="262.43835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-188.02899"
+                class="id_陈心建" cy="416.75116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-142.0543"
+                class="id_厦门金碧置业有限公司" cy="437.7504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-165.04987"
+                class="id_东莞市凯星房地产开发有限公司" cy="198.62639" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-112.28701"
+                class="id_恒大地产集团广东房地产开发有限公司" cy="-6.7004695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-283.02536"
+                class="id_刘志强" cy="423.69702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="57.390327"
+                class="id_恒大地产集团盐城城南置业有限公司" cy="-180.60435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="94.21887"
+                class="id_王艳杰" cy="-365.75162" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="0.985178"
+                class="id_恒大地产集团上海盛建置业有限公司" cy="-168.70226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-210.09073"
+                class="id_南通金水湾置业有限公司" cy="251.9284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-390.7521"
+                class="id_黄兆亚" cy="424.60474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="236.78049"
+                class="id_呼和浩特市恒大远鹏房地产开发有限公司" cy="-163.85378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="305.43283"
+                class="id_段胜利" cy="-172.36261" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="324.9015"
+                class="id_赵永军" cy="-273.1458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="292.94586"
+                class="id_恒大地产集团呼和浩特有限公司" cy="-296.28204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="396.94302"
+                class="id_内蒙古远鹏房地产开发有限公司" cy="-274.77722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-97.34923"
+                class="id_佛山市南海俊凯房地产开发有限公司" cy="-113.00604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-131.17192"
+                class="id_杨昕" cy="-284.13562" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="294.18155"
+                class="id_沧州恒祥房地产开发有限公司" cy="34.01649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="489.70242"
+                class="id_浙商金汇信托股份有限公司" cy="30.623507" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="118.19256"
+                class="id_新疆白天鹅房地产开发有限公司" cy="316.15784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="166.57614"
+                class="id_周坤先" cy="486.83868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="202.87779"
+                class="id_倪卓斐" cy="434.98676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="170.36177"
+                class="id_恒大地产集团乌鲁木齐有限公司" cy="349.78043" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="211.2296"
+                class="id_呼和浩特市恒大宏泰房地产开发有限公司" cy="-223.4677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="278.23486"
+                class="id_金勇" cy="-400.19226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="328.64984"
+                class="id_内蒙古宏泰房地产开发有限公司" cy="-377.72842" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="295.50244"
+                class="id_大连恒诚房地产开发有限公司" cy="154.01381" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="481.58072"
+                class="id_李庆华" cy="192.01863" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="461.03394"
+                class="id_王晓平" cy="241.6342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="213.97568"
+                class="id_恒大地产集团大连有限公司" cy="99.58819" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-29.011208"
+                class="id_江苏俊朗置业有限公司" cy="-124.9853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-76.8891"
+                class="id_郑奎" cy="-224.47462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="93.30695"
+                class="id_佛山市三水盈盛房地产发展有限公司" cy="-140.85757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="7.3579516"
+                class="id_恒大地产集团珠三角房地产开发有限公司" cy="-109.43555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="156.61075"
+                class="id_曹海" cy="-307.1949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="180.72014"
+                class="id_潍坊金碧置业有限公司" cy="198.64342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="283.1942"
+                class="id_谈朝晖" cy="269.67432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="127.94216"
+                class="id_恒大地产集团济南置业有限公司" cy="155.00117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="307.95654"
+                class="id_孙欢" cy="236.29254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="173.46927"
+                class="id_北京恒兴盛房地产开发有限公司" cy="-69.97586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="121.83252"
+                class="id_天津金碧投资有限公司" cy="-22.71613" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-216.18373"
+                class="id_盐城普耀置业有限公司" cy="-2.4086163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-376.2428"
+                class="id_刘曙" cy="-66.39394" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-197.83424"
+                class="id_扬州盛基房地产开发有限公司" cy="146.39812" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-364.71805"
+                class="id_周鹏" cy="191.86873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-46.041553"
+                class="id_无锡云厦置业有限公司" cy="-101.81558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="196.76022"
+                class="id_山东普云房地产开发有限公司" cy="176.1005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-50.556324"
+                class="id_吉林市恒大宏盛房地产开发有限公司" cy="145.49078" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f4cb31" r="10.0" cx="-69.2731"
+                class="id_恒大地产集团长春有限公司" cy="102.51678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eb2a34" r="14.8" cx="7.144106"
+                class="id_恒大地产集团有限公司" cy="64.46988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="40.777622"
+                class="id_潘大荣" cy="165.98572" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="96.81459"
+                class="id_时守明" cy="37.109226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="-8.830322"
+                class="id_甄立涛" cy="190.32634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="88.93086"
+                class="id_苏州工业园区睿灿投资企业（有限合伙）" cy="103.415276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec7b4f" r="10.0" cx="37.738453"
+                class="id_南京润恒企业管理有限公司" cy="-22.003962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="343.29068"
+                class="id_恒大园林集团有限公司" cy="86.81772" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="106.80487"
+                class="id_启东勤盛置业有限公司" cy="756.3582" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="51.806698"
+                class="id_汤济泽" cy="760.97406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-883.99"
+                class="id_孙亮" cy="13.350604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-833.88385"
+                class="id_山东鲁桥建设有限公司" cy="-5.9731374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-880.30035"
+                class="id_山东高速绿城置业投资有限公司" cy="67.73537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-867.40173"
+                class="id_山东省公路桥梁建设有限公司" cy="-39.99911" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-836.11584"
+                class="id_山东高速青岛公路有限公司" cy="53.35743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-821.46924"
+                class="id_山东省人民政府国有资产监督管理委员会" cy="-66.09704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-845.57336"
+                class="id_李航" cy="109.85951" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-317.95047"
+                class="id_邓满连" cy="111.06999" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-308.9546"
+                class="id_太原恒德隆房地产开发有限公司" cy="-428.75146" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-310.75314"
+                class="id_运城市鑫万瑞房地产开发有限公司" cy="-479.10342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-354.7071"
+                class="id_闫彪" cy="-438.3064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-362.74347"
+                class="id_临汾市紫旌房地产开发有限公司" cy="-392.56808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-264.23282"
+                class="id_阳泉市燎原房地产开发有限公司" cy="-451.39774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-207.95856"
+                class="id_太原恒睿房地产开发有限公司" cy="-478.98172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-255.17238"
+                class="id_山西嘉盛房地产开发有限公司" cy="-495.09097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-1.1983212"
+                class="id_杨松涛" cy="-353.65463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-751.7317"
+                class="id_郝德辉" cy="231.64941" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-244.968"
+                class="id_吉兴顺" cy="-115.14132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-370.76498"
+                class="id_蒋渝蓉" cy="574.91473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="-513.15466"
+                class="id_孙雅慧" cy="546.9021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="252.70998"
+                class="id_恒大地产集团包头有限公司" cy="525.08435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="295.98032"
+                class="id_青岛金湾置业有限公司" cy="497.04114" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fded92" r="10.0" cx="25.805956"
+                class="id_王全喜" cy="-282.617" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="299.38287" y="-28.727266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_河北云江房地产开发有限公司">
+            河北云江房地产开发有限公司
+        </text>
+        <text font-size="12" x="485.9835" y="-79.27427" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_石家庄纬度商贸有限公司">
+            石家庄纬度商贸有限公司
+        </text>
+        <text font-size="12" x="221.9665" y="42.517925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团石家庄有限公司">
+            恒大地产集团石家庄有限公司
+        </text>
+        <text font-size="12" x="255.17406" y="16.386175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_河北恒润房地产开发有限公司">
+            河北恒润房地产开发有限公司
+        </text>
+        <text font-size="12" x="378.76202" y="-18.272594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_江海军">
+            江海军
+        </text>
+        <text font-size="12" x="466.031" y="-120.12769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_刘聪笑">
+            刘聪笑
+        </text>
+        <text font-size="12" x="198.21996" y="303.16003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_广州市凯隆置业有限公司">
+            广州市凯隆置业有限公司
+        </text>
+        <text font-size="12" x="364.31552" y="397.86047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_李国东">
+            李国东
+        </text>
+        <text font-size="12" x="334.5178" y="434.78683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_广州市超丰置业有限公司">
+            广州市超丰置业有限公司
+        </text>
+        <text font-size="12" x="14.464003" y="372.0743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_海南恒乾材料设备有限公司">
+            海南恒乾材料设备有限公司
+        </text>
+        <text font-size="12" x="61.380116" y="588.48865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大旅游集团有限公司">
+            恒大旅游集团有限公司
+        </text>
+        <text font-size="12" x="-20.523415" y="257.9607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_许家印">
+            许家印
+        </text>
+        <text font-size="12" x="-13.896627" y="548.14276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_潘云淼">
+            潘云淼
+        </text>
+        <text font-size="12" x="-164.41046" y="16.177437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_泉州市钻石投资发展有限公司">
+            泉州市钻石投资发展有限公司
+        </text>
+        <text font-size="12" x="-165.88419" y="83.28324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团福州有限公司">
+            恒大地产集团福州有限公司
+        </text>
+        <text font-size="12" x="-273.0083" y="-33.785946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_王明甲">
+            王明甲
+        </text>
+        <text font-size="12" x="-177.19328" y="-87.00695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_龙岩恒大置业有限公司">
+            龙岩恒大置业有限公司
+        </text>
+        <text font-size="12" x="-312.07584" y="-190.99408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_陈利波">
+            陈利波
+        </text>
+        <text font-size="12" x="-219.3714" y="-301.79956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_太原市俊恒房地产开发有限公司">
+            太原市俊恒房地产开发有限公司
+        </text>
+        <text font-size="12" x="-383.17874" y="38.147827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东高速投资控股有限公司">
+            山东高速投资控股有限公司
+        </text>
+        <text font-size="12" x="-701.553" y="34.063713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东高速集团有限公司">
+            山东高速集团有限公司
+        </text>
+        <text font-size="12" x="-538.20557" y="6.365995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_曾卫兵">
+            曾卫兵
+        </text>
+        <text font-size="12" x="-157.17346" y="-8.569842" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_晋江金碧置业有限公司">
+            晋江金碧置业有限公司
+        </text>
+        <text font-size="12" x="-400.97644" y="83.528145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东高速地产集团有限公司">
+            山东高速地产集团有限公司
+        </text>
+        <text font-size="12" x="-607.99" y="163.78949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_姜连梅">
+            姜连梅
+        </text>
+        <text font-size="12" x="406.51492" y="23.989735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_张亮">
+            张亮
+        </text>
+        <text font-size="12" x="75.73262" y="372.77158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大集团有限公司">
+            恒大集团有限公司
+        </text>
+        <text font-size="12" x="113.15302" y="548.1072" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_刘玉芝">
+            刘玉芝
+        </text>
+        <text font-size="12" x="-180.95055" y="264.05188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_徐州九龙苑酒店管理有限公司">
+            徐州九龙苑酒店管理有限公司
+        </text>
+        <text font-size="12" x="-329.10355" y="353.71167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_邳州瑞丰酒店管理有限公司">
+            邳州瑞丰酒店管理有限公司
+        </text>
+        <text font-size="12" x="-291.7237" y="388.96515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_张烨">
+            张烨
+        </text>
+        <text font-size="12" x="-131.72823" y="185.9946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团南京置业有限公司">
+            恒大地产集团南京置业有限公司
+        </text>
+        <text font-size="12" x="-110.91342" y="265.22534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_南安金碧置业有限公司">
+            南安金碧置业有限公司
+        </text>
+        <text font-size="12" x="-188.02899" y="419.51715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_陈心建">
+            陈心建
+        </text>
+        <text font-size="12" x="-142.0543" y="440.5374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_厦门金碧置业有限公司">
+            厦门金碧置业有限公司
+        </text>
+        <text font-size="12" x="-165.04987" y="201.42538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_东莞市凯星房地产开发有限公司">
+            东莞市凯星房地产开发有限公司
+        </text>
+        <text font-size="12" x="-112.28701" y="-3.8804696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团广东房地产开发有限公司">
+            恒大地产集团广东房地产开发有限公司
+        </text>
+        <text font-size="12" x="-283.02536" y="426.47504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_刘志强">
+            刘志强
+        </text>
+        <text font-size="12" x="57.390327" y="-177.79636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团盐城城南置业有限公司">
+            恒大地产集团盐城城南置业有限公司
+        </text>
+        <text font-size="12" x="94.21887" y="-363.0006" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_王艳杰">
+            王艳杰
+        </text>
+        <text font-size="12" x="0.985178" y="-165.89426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团上海盛建置业有限公司">
+            恒大地产集团上海盛建置业有限公司
+        </text>
+        <text font-size="12" x="-210.09073" y="254.7124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_南通金水湾置业有限公司">
+            南通金水湾置业有限公司
+        </text>
+        <text font-size="12" x="-390.7521" y="427.34973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_黄兆亚">
+            黄兆亚
+        </text>
+        <text font-size="12" x="236.78049" y="-161.03976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_呼和浩特市恒大远鹏房地产开发有限公司">
+            呼和浩特市恒大远鹏房地产开发有限公司
+        </text>
+        <text font-size="12" x="305.43283" y="-169.60262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_段胜利">
+            段胜利
+        </text>
+        <text font-size="12" x="324.9015" y="-270.37082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_赵永军">
+            赵永军
+        </text>
+        <text font-size="12" x="292.94586" y="-293.47406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团呼和浩特有限公司">
+            恒大地产集团呼和浩特有限公司
+        </text>
+        <text font-size="12" x="396.94302" y="-271.96323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_内蒙古远鹏房地产开发有限公司">
+            内蒙古远鹏房地产开发有限公司
+        </text>
+        <text font-size="12" x="-97.34923" y="-110.20104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_佛山市南海俊凯房地产开发有限公司">
+            佛山市南海俊凯房地产开发有限公司
+        </text>
+        <text font-size="12" x="-131.17192" y="-281.38162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_杨昕">
+            杨昕
+        </text>
+        <text font-size="12" x="294.18155" y="36.82449" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_沧州恒祥房地产开发有限公司">
+            沧州恒祥房地产开发有限公司
+        </text>
+        <text font-size="12" x="489.70242" y="33.410507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_浙商金汇信托股份有限公司">
+            浙商金汇信托股份有限公司
+        </text>
+        <text font-size="12" x="118.19256" y="318.95984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_新疆白天鹅房地产开发有限公司">
+            新疆白天鹅房地产开发有限公司
+        </text>
+        <text font-size="12" x="166.57614" y="489.58667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_周坤先">
+            周坤先
+        </text>
+        <text font-size="12" x="202.87779" y="437.76175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_倪卓斐">
+            倪卓斐
+        </text>
+        <text font-size="12" x="170.36177" y="352.58844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团乌鲁木齐有限公司">
+            恒大地产集团乌鲁木齐有限公司
+        </text>
+        <text font-size="12" x="211.2296" y="-220.6597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_呼和浩特市恒大宏泰房地产开发有限公司">
+            呼和浩特市恒大宏泰房地产开发有限公司
+        </text>
+        <text font-size="12" x="278.23486" y="-397.45325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_金勇">
+            金勇
+        </text>
+        <text font-size="12" x="328.64984" y="-374.92343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_内蒙古宏泰房地产开发有限公司">
+            内蒙古宏泰房地产开发有限公司
+        </text>
+        <text font-size="12" x="295.50244" y="156.82181" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_大连恒诚房地产开发有限公司">
+            大连恒诚房地产开发有限公司
+        </text>
+        <text font-size="12" x="481.58072" y="194.80263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_李庆华">
+            李庆华
+        </text>
+        <text font-size="12" x="461.03394" y="244.4212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_王晓平">
+            王晓平
+        </text>
+        <text font-size="12" x="213.97568" y="102.39619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团大连有限公司">
+            恒大地产集团大连有限公司
+        </text>
+        <text font-size="12" x="-29.011208" y="-122.1923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_江苏俊朗置业有限公司">
+            江苏俊朗置业有限公司
+        </text>
+        <text font-size="12" x="-76.8891" y="-221.72363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_郑奎">
+            郑奎
+        </text>
+        <text font-size="12" x="93.30695" y="-138.05258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_佛山市三水盈盛房地产发展有限公司">
+            佛山市三水盈盛房地产发展有限公司
+        </text>
+        <text font-size="12" x="7.3579516" y="-106.62755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团珠三角房地产开发有限公司">
+            恒大地产集团珠三角房地产开发有限公司
+        </text>
+        <text font-size="12" x="156.61075" y="-304.4199" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_曹海">
+            曹海
+        </text>
+        <text font-size="12" x="180.72014" y="201.43042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_潍坊金碧置业有限公司">
+            潍坊金碧置业有限公司
+        </text>
+        <text font-size="12" x="283.1942" y="272.45233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_谈朝晖">
+            谈朝晖
+        </text>
+        <text font-size="12" x="127.94216" y="157.80917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团济南置业有限公司">
+            恒大地产集团济南置业有限公司
+        </text>
+        <text font-size="12" x="307.95654" y="239.07054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_孙欢">
+            孙欢
+        </text>
+        <text font-size="12" x="173.46927" y="-67.16786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_北京恒兴盛房地产开发有限公司">
+            北京恒兴盛房地产开发有限公司
+        </text>
+        <text font-size="12" x="121.83252" y="-19.91713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_天津金碧投资有限公司">
+            天津金碧投资有限公司
+        </text>
+        <text font-size="12" x="-216.18373" y="0.38138342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_盐城普耀置业有限公司">
+            盐城普耀置业有限公司
+        </text>
+        <text font-size="12" x="-376.2428" y="-63.630943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_刘曙">
+            刘曙
+        </text>
+        <text font-size="12" x="-197.83424" y="149.19711" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_扬州盛基房地产开发有限公司">
+            扬州盛基房地产开发有限公司
+        </text>
+        <text font-size="12" x="-364.71805" y="194.66473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_周鹏">
+            周鹏
+        </text>
+        <text font-size="12" x="-46.041553" y="-99.02558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_无锡云厦置业有限公司">
+            无锡云厦置业有限公司
+        </text>
+        <text font-size="12" x="196.76022" y="178.9115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东普云房地产开发有限公司">
+            山东普云房地产开发有限公司
+        </text>
+        <text font-size="12" x="-50.556324" y="148.29878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_吉林市恒大宏盛房地产开发有限公司">
+            吉林市恒大宏盛房地产开发有限公司
+        </text>
+        <text font-size="12" x="-69.2731" y="105.324776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团长春有限公司">
+            恒大地产集团长春有限公司
+        </text>
+        <text font-size="24" x="7.144106" y="70.08588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团有限公司">
+            恒大地产集团有限公司
+        </text>
+        <text font-size="12" x="40.777622" y="168.74571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_潘大荣">
+            潘大荣
+        </text>
+        <text font-size="12" x="96.81459" y="39.905228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_时守明">
+            时守明
+        </text>
+        <text font-size="12" x="-8.830322" y="193.06534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_甄立涛">
+            甄立涛
+        </text>
+        <text font-size="12" x="88.93086" y="106.21728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_苏州工业园区睿灿投资企业（有限合伙）">
+            苏州工业园区睿灿投资企业（有限合伙）
+        </text>
+        <text font-size="12" x="37.738453" y="-19.213963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_南京润恒企业管理有限公司">
+            南京润恒企业管理有限公司
+        </text>
+        <text font-size="12" x="343.29068" y="89.60772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大园林集团有限公司">
+            恒大园林集团有限公司
+        </text>
+        <text font-size="12" x="106.80487" y="759.15125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_启东勤盛置业有限公司">
+            启东勤盛置业有限公司
+        </text>
+        <text font-size="12" x="51.806698" y="763.7461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_汤济泽">
+            汤济泽
+        </text>
+        <text font-size="12" x="-883.99" y="16.134604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_孙亮">
+            孙亮
+        </text>
+        <text font-size="12" x="-833.88385" y="-3.1801372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东鲁桥建设有限公司">
+            山东鲁桥建设有限公司
+        </text>
+        <text font-size="12" x="-880.30035" y="70.531364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东高速绿城置业投资有限公司">
+            山东高速绿城置业投资有限公司
+        </text>
+        <text font-size="12" x="-867.40173" y="-37.20911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东省公路桥梁建设有限公司">
+            山东省公路桥梁建设有限公司
+        </text>
+        <text font-size="12" x="-836.11584" y="56.15043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东高速青岛公路有限公司">
+            山东高速青岛公路有限公司
+        </text>
+        <text font-size="12" x="-821.46924" y="-63.292038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山东省人民政府国有资产监督管理委员会">
+            山东省人民政府国有资产监督管理委员会
+        </text>
+        <text font-size="12" x="-845.57336" y="112.63751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_李航">
+            李航
+        </text>
+        <text font-size="12" x="-317.95047" y="113.84799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_邓满连">
+            邓满连
+        </text>
+        <text font-size="12" x="-308.9546" y="-425.94348" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_太原恒德隆房地产开发有限公司">
+            太原恒德隆房地产开发有限公司
+        </text>
+        <text font-size="12" x="-310.75314" y="-476.30444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_运城市鑫万瑞房地产开发有限公司">
+            运城市鑫万瑞房地产开发有限公司
+        </text>
+        <text font-size="12" x="-354.7071" y="-435.52838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_闫彪">
+            闫彪
+        </text>
+        <text font-size="12" x="-362.74347" y="-389.76007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_临汾市紫旌房地产开发有限公司">
+            临汾市紫旌房地产开发有限公司
+        </text>
+        <text font-size="12" x="-264.23282" y="-448.59573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_阳泉市燎原房地产开发有限公司">
+            阳泉市燎原房地产开发有限公司
+        </text>
+        <text font-size="12" x="-207.95856" y="-476.1737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_太原恒睿房地产开发有限公司">
+            太原恒睿房地产开发有限公司
+        </text>
+        <text font-size="12" x="-255.17238" y="-492.28897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_山西嘉盛房地产开发有限公司">
+            山西嘉盛房地产开发有限公司
+        </text>
+        <text font-size="12" x="-1.1983212" y="-350.88864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_杨松涛">
+            杨松涛
+        </text>
+        <text font-size="12" x="-751.7317" y="234.42441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_郝德辉">
+            郝德辉
+        </text>
+        <text font-size="12" x="-244.968" y="-112.39632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_吉兴顺">
+            吉兴顺
+        </text>
+        <text font-size="12" x="-370.76498" y="577.6658" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_蒋渝蓉">
+            蒋渝蓉
+        </text>
+        <text font-size="12" x="-513.15466" y="549.6531" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_孙雅慧">
+            孙雅慧
+        </text>
+        <text font-size="12" x="252.70998" y="527.89233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_恒大地产集团包头有限公司">
+            恒大地产集团包头有限公司
+        </text>
+        <text font-size="12" x="295.98032" y="499.83115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_青岛金湾置业有限公司">
+            青岛金湾置业有限公司
+        </text>
+        <text font-size="12" x="25.805956" y="-279.863" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_王全喜">
+            王全喜
+        </text>
+    </g>
+    <g id="edge-labels">
+        <text font-size="10" x="392.68317" y="-56.804268" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_242">
+            股东
+        </text>
+        <text font-size="10" x="260.67468" y="4.0858297" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_243">
+            控股股东
+        </text>
+        <text font-size="10" x="277.27847" y="-8.980046" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_244">
+            一般关联企业
+        </text>
+        <text font-size="10" x="339.07245" y="-26.297432" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_245">
+            财务负责人
+        </text>
+        <text font-size="10" x="382.70694" y="-77.22048" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_246">
+            法人
+        </text>
+        <text font-size="10" x="281.26773" y="347.71124" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_247">
+            法人
+        </text>
+        <text font-size="10" x="266.36887" y="366.15344" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_248">
+            控股股东
+        </text>
+        <text font-size="10" x="37.92206" y="477.48248" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_249">
+            控股股东
+        </text>
+        <text font-size="10" x="-3.029706" y="312.2275" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_250">
+            实际控制人
+        </text>
+        <text font-size="10" x="0.2836876" y="457.31702" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_251">
+            法人
+        </text>
+        <text font-size="10" x="-165.14732" y="46.92834" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_252">
+            控股股东
+        </text>
+        <text font-size="10" x="-218.70938" y="-11.534255" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_253">
+            法人
+        </text>
+        <text font-size="10" x="-170.80188" y="-38.207756" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_254">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-171.53873" y="-4.6608543" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_255">
+            全资子公司
+        </text>
+        <text font-size="10" x="-244.63455" y="-141.78302" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_257">
+            法人
+        </text>
+        <text font-size="10" x="-198.28235" y="-197.20224" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_258">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-542.36584" y="33.31277" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_259">
+            控股股东
+        </text>
+        <text font-size="10" x="-460.69214" y="19.45791" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_260">
+            法人
+        </text>
+        <text font-size="10" x="-160.79196" y="1.0062976" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_261">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-161.52882" y="34.5532" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_262">
+            全资子公司
+        </text>
+        <text font-size="10" x="-215.09088" y="-23.909395" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_263">
+            法人
+        </text>
+        <text font-size="10" x="-167.18338" y="-50.582897" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_264">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-504.48322" y="120.85982" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_266">
+            财务负责人
+        </text>
+        <text font-size="10" x="-551.2647" y="56.00443" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_267">
+            控股股东
+        </text>
+        <text font-size="10" x="238.57028" y="26.64405" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_268">
+            控股股东
+        </text>
+        <text font-size="10" x="330.84448" y="17.391954" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_269">
+            法人
+        </text>
+        <text font-size="10" x="316.96805" y="-3.7392101" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_270">
+            财务负责人
+        </text>
+        <text font-size="10" x="136.97629" y="335.1608" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_271">
+            控股股东
+        </text>
+        <text font-size="10" x="45.098312" y="369.62543" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_273">
+            一般关联企业
+        </text>
+        <text font-size="10" x="94.442825" y="457.66138" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_274">
+            法人
+        </text>
+        <text font-size="10" x="-255.02704" y="306.09927" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_275">
+            股东
+        </text>
+        <text font-size="10" x="-236.33713" y="323.726" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_276">
+            法人
+        </text>
+        <text font-size="10" x="-156.33939" y="222.22275" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_277">
+            控股股东
+        </text>
+        <text font-size="10" x="-65.718414" y="258.812" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_278">
+            实际控制人
+        </text>
+        <text font-size="10" x="-149.4712" y="339.59476" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_279">
+            法人
+        </text>
+        <text font-size="10" x="-126.483864" y="350.09436" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_280">
+            控股股东
+        </text>
+        <text font-size="10" x="-138.66844" y="95.96296" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_281">
+            控股股东
+        </text>
+        <text font-size="10" x="-224.03761" y="311.1617" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_282">
+            法人
+        </text>
+        <text font-size="10" x="75.804596" y="-273.17798" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_283">
+            法人
+        </text>
+        <text font-size="10" x="29.187752" y="-174.6533" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_284">
+            控股股东
+        </text>
+        <text font-size="10" x="-300.42142" y="338.26657" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_286">
+            法人
+        </text>
+        <text font-size="10" x="-170.90948" y="217.5575" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_287">
+            控股股东
+        </text>
+        <text font-size="10" x="271.10666" y="-168.10818" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_288">
+            法人
+        </text>
+        <text font-size="10" x="280.841" y="-218.49979" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_289">
+            财务负责人
+        </text>
+        <text font-size="10" x="264.86316" y="-230.0679" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_290">
+            控股股东
+        </text>
+        <text font-size="10" x="316.86176" y="-219.31549" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_291">
+            股东
+        </text>
+        <text font-size="10" x="-104.818115" y="-59.853256" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_292">
+            控股股东
+        </text>
+        <text font-size="10" x="-114.260574" y="-198.57083" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_293">
+            法人
+        </text>
+        <text font-size="10" x="350.34824" y="27.611113" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_294">
+            法人
+        </text>
+        <text font-size="10" x="274.6778" y="23.797333" fill="#ec7b4f"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_295">
+            一般关联企业
+        </text>
+        <text font-size="10" x="336.4718" y="6.479948" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_296">
+            财务负责人
+        </text>
+        <text font-size="10" x="391.942" y="32.32" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_297">
+            股东
+        </text>
+        <text font-size="10" x="258.07404" y="36.86321" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_298">
+            控股股东
+        </text>
+        <text font-size="10" x="142.38435" y="401.49826" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_299">
+            股东
+        </text>
+        <text font-size="10" x="160.53517" y="375.5723" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_300">
+            法人
+        </text>
+        <text font-size="10" x="144.27716" y="332.96912" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_301">
+            控股股东
+        </text>
+        <text font-size="10" x="244.73224" y="-311.83" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_302">
+            法人
+        </text>
+        <text font-size="10" x="269.93973" y="-300.59805" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_303">
+            股东
+        </text>
+        <text font-size="10" x="252.08774" y="-259.87488" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_304">
+            控股股东
+        </text>
+        <text font-size="10" x="268.06555" y="-248.30676" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_305">
+            财务负责人
+        </text>
+        <text font-size="10" x="388.54156" y="173.01622" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_306">
+            财务负责人
+        </text>
+        <text font-size="10" x="378.2682" y="197.824" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_307">
+            法人
+        </text>
+        <text font-size="10" x="254.73906" y="126.800995" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_308">
+            控股股东
+        </text>
+        <text font-size="10" x="-52.950153" y="-174.72997" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_309">
+            法人
+        </text>
+        <text font-size="10" x="-14.013015" y="-146.84378" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_310">
+            控股股东
+        </text>
+        <text font-size="10" x="50.33245" y="-125.14656" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_311">
+            控股股东
+        </text>
+        <text font-size="10" x="124.95885" y="-224.02623" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_313">
+            法人
+        </text>
+        <text font-size="10" x="231.95718" y="234.15887" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_314">
+            法人
+        </text>
+        <text font-size="10" x="154.33115" y="176.8223" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_315">
+            控股股东
+        </text>
+        <text font-size="10" x="244.33835" y="217.46799" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_316">
+            财务负责人
+        </text>
+        <text font-size="10" x="239.45105" y="-121.169235" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_317">
+            法人
+        </text>
+        <text font-size="10" x="147.6509" y="-46.345993" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_318">
+            控股股东
+        </text>
+        <text font-size="10" x="-296.21326" y="-34.40128" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_319">
+            法人
+        </text>
+        <text font-size="10" x="-164.78123" y="164.79236" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_320">
+            控股股东
+        </text>
+        <text font-size="10" x="-281.27615" y="169.13342" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_321">
+            法人
+        </text>
+        <text font-size="10" x="-61.465324" y="-163.14511" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_322">
+            法人
+        </text>
+        <text font-size="10" x="-22.528187" y="-135.25891" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_323">
+            控股股东
+        </text>
+        <text font-size="10" x="239.97722" y="222.8874" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_324">
+            法人
+        </text>
+        <text font-size="10" x="252.35838" y="206.19652" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_325">
+            财务负责人
+        </text>
+        <text font-size="10" x="162.3512" y="165.55084" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_326">
+            控股股东
+        </text>
+        <text font-size="10" x="-59.91471" y="124.003784" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_327">
+            控股股东
+        </text>
+        <text font-size="10" x="-196.91617" y="72.60101" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_328">
+            股东
+        </text>
+        <text font-size="10" x="23.960865" y="115.2278" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_329">
+            财务负责人
+        </text>
+        <text font-size="10" x="-78.95288" y="131.54813" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_330">
+            一般关联企业
+        </text>
+        <text font-size="10" x="32.267216" y="-58.067238" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_331">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-78.63318" y="38.92566" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_332">
+            一般关联企业
+        </text>
+        <text font-size="10" x="51.979347" y="50.78955" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_333">
+            法人
+        </text>
+        <text font-size="10" x="-101.47331" y="158.19914" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_334">
+            一般关联企业
+        </text>
+        <text font-size="10" x="153.26349" y="16.465805" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_335">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-75.01468" y="26.550518" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_336">
+            一般关联企业
+        </text>
+        <text font-size="10" x="121.962296" y="-49.691948" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_337">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-45.102562" y="-24.268082" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_338">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-6.6896544" y="159.82779" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_339">
+            实际控制人
+        </text>
+        <text font-size="10" x="150.66283" y="49.243187" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_340">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-188.01732" y="49.909355" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_341">
+            股东
+        </text>
+        <text font-size="10" x="62.66833" y="190.31386" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_342">
+            全资子公司
+        </text>
+        <text font-size="10" x="-0.8431082" y="127.39811" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_343">
+            法人
+        </text>
+        <text font-size="10" x="109.18685" y="-79.49891" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_344">
+            一般关联企业
+        </text>
+        <text font-size="10" x="151.32327" y="109.241844" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_345">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-51.88466" y="163.45412" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_346">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-10.933551" y="-30.25771" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_347">
+            一般关联企业
+        </text>
+        <text font-size="10" x="102.68203" y="182.40495" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_348">
+            全资子公司
+        </text>
+        <text font-size="10" x="50.22553" y="-38.193848" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_349">
+            一般关联企业
+        </text>
+        <text font-size="10" x="93.93212" y="131.55664" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_351">
+            一般关联企业
+        </text>
+        <text font-size="10" x="90.30669" y="-2.7529907" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_352">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-104.51981" y="31.030632" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_353">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-85.02459" y="-12.663536" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_354">
+            一般关联企业
+        </text>
+        <text font-size="10" x="48.037483" y="83.94258" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_355">
+            股东
+        </text>
+        <text font-size="10" x="10.804054" y="216.8696" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_356">
+            一般关联企业
+        </text>
+        <text font-size="10" x="131.15909" y="39.024025" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_357">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-95.34507" y="105.434" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_358">
+            一般关联企业
+        </text>
+        <text font-size="10" x="22.44128" y="21.23296" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_359">
+            股东
+        </text>
+        <text font-size="10" x="-19.448723" y="-18.672852" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_360">
+            一般关联企业
+        </text>
+        <text font-size="10" x="101.95216" y="120.28519" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_361">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-86.90322" y="162.86438" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_362">
+            一般关联企业
+        </text>
+        <text font-size="10" x="41.438362" y="217.22572" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_363">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-21.706108" y="104.98033" fill="#eb5241"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_364">
+            一般关联企业
+        </text>
+        <text font-size="10" x="114.555305" y="52.089905" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_365">
+            控股股东
+        </text>
+        <text font-size="10" x="282.6286" y="63.263824" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_366">
+            一般关联企业
+        </text>
+        <text font-size="10" x="67.54314" y="109.73553" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_367">
+            控股股东
+        </text>
+        <text font-size="10" x="84.09249" y="671.0269" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_368">
+            一般关联企业
+        </text>
+        <text font-size="10" x="56.593407" y="673.33484" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_369">
+            法人
+        </text>
+        <text font-size="10" x="68.556366" y="477.8386" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_370">
+            控股股东
+        </text>
+        <text font-size="10" x="-62.29206" y="123.82824" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_371">
+            控股股东
+        </text>
+        <text font-size="10" x="-792.7715" y="22.313658" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_372">
+            法人
+        </text>
+        <text font-size="10" x="-767.7184" y="12.651788" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_373">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-790.92664" y="49.50604" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_374">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-784.47736" y="-4.3611994" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_375">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-768.8344" y="42.31707" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_376">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-761.5111" y="-17.410164" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_377">
+            控股股东
+        </text>
+        <text font-size="10" x="-773.5632" y="70.568115" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_378">
+            财务负责人
+        </text>
+        <text font-size="10" x="-31.064499" y="83.49333" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_379">
+            控股股东
+        </text>
+        <text font-size="10" x="-241.91733" y="95.77261" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_380">
+            法人
+        </text>
+        <text font-size="10" x="-79.37004" y="72.472565" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_381">
+            全资子公司
+        </text>
+        <text font-size="10" x="-138.3988" y="171.4568" fill="#f0a340"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_383">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-264.163" y="-366.6795" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_384">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-265.06226" y="-391.85547" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_385">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-106.11365" y="-120.06883" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_386">
+            控股股东
+        </text>
+        <text font-size="10" x="-287.03925" y="-371.45697" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_387">
+            财务负责人
+        </text>
+        <text font-size="10" x="-291.05743" y="-348.58783" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_388">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-241.80211" y="-378.00262" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_389">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-213.66498" y="-391.79462" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_390">
+            一般关联企业
+        </text>
+        <text font-size="10" x="-237.27188" y="-399.84924" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_391">
+            一般关联企业
+        </text>
+        <text font-size="10" x="4.064642" y="-52.116188" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_392">
+            控股股东
+        </text>
+        <text font-size="10" x="-0.106571615" y="-261.17844" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_393">
+            法人
+        </text>
+        <text font-size="10" x="-679.86084" y="196.31845" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_394">
+            配偶
+        </text>
+        <text font-size="10" x="-178.6275" y="-60.920895" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_395">
+            法人
+        </text>
+        <text font-size="10" x="-52.571453" y="28.884705" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_396">
+            股东
+        </text>
+        <text font-size="10" x="-326.89517" y="499.30588" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_397">
+            配偶
+        </text>
+        <text font-size="10" x="-451.95337" y="485.75342" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_398">
+            配偶
+        </text>
+        <text font-size="10" x="186.61978" y="392.3836" fill="#f4cb31"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_399">
+            法人
+        </text>
+        <text font-size="10" x="88.75294" y="207.12515" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_400">
+            股东
+        </text>
+        <text font-size="10" x="211.53587" y="437.43237" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_401">
+            一般关联企业
+        </text>
+        <text font-size="10" x="233.17105" y="423.41077" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_402">
+            一般关联企业
+        </text>
+        <text font-size="10" x="278.63318" y="93.20296" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_403">
+            一般关联企业
+        </text>
+        <text font-size="10" x="110.55989" y="82.02904" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_404">
+            控股股东
+        </text>
+        <text font-size="10" x="-52.46453" y="-58.06801" fill="#f4cb31"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_405">
+            一般关联企业
+        </text>
+        <text font-size="10" x="7.251029" y="-22.482834" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_406">
+            控股股东
+        </text>
+        <text font-size="10" x="16.581953" y="-196.02628" fill="#f8dc61"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_407">
+            法人
+        </text>
+        <text font-size="10" x="64.48831" y="20.876875" fill="#ef7a32"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_408">
+            一般关联企业
+        </text>
+    </g>
+</svg>
