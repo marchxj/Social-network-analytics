@@ -3,7 +3,7 @@
 
 # In[1]:
 
-from  hxdb import * # 华夏TD包 
+from  hxdb import * # Huaxia teradata package
 import datetime # 时间相关
 import time # 计时相关
 import pandas as pd # 数据存储
